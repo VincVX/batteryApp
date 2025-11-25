@@ -4,11 +4,11 @@ A sleek and informative battery status indicator that lives in your macOS menu b
 
 ## Features
 
-- 🔋 Real-time battery percentage and status
-- ⚡️ Charging status and time remaining
-- 🎨 Customizable status bar icons
-- ✨ Fun particle animations (Option-click to trigger)
-- 🔍 Detailed battery information including [STILL UNFINISHED]:
+-  Real-time battery percentage and status
+-  Charging status and time remaining
+-  Customizable status bar icons
+-  Fun particle animations (Option-click to trigger)
+-  Detailed battery information including [STILL UNFINISHED]:
   - Power source status
   - Battery health
   - Time remaining/Time to full charge
